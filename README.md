@@ -1,15 +1,19 @@
 # España, para recordar
 
-Álbum de viaje de Rolando Silva Vique: 50 fotografías, 12 destacadas y diseño en tonos rojo vino, rosa y terracota.
+Álbum de viaje de Rolando Silva Vique, con 50 fotografías, 12 destacadas y diseño en rojo vino, rosa y terracota.
 
-Contiene Madrid, Toledo, Segovia, Barcelona, universidad, amistades y trayectos.
+## Ver el álbum
 
-## Publicación
+**https://ketahgd.github.io/album-espana-2026/**
 
-Sitio estático preparado para GitHub Pages: publicar la raíz de la rama `main`.
+Incluye Madrid, Toledo, Segovia, Barcelona, universidad, amistades y trayectos. Se puede abrir desde el celular o la computadora, sin iniciar sesión.
 
-Las imágenes de esta versión están optimizadas para la web y no incluyen metadatos EXIF de ubicación. Los originales completos permanecen en la computadora del propietario.
+## Fotografías y publicación
 
-La presencia de `robots.txt` y `noindex` solicita evitar la indexación, pero **no constituye control de acceso**. Mientras el repositorio sea privado y GitHub Pages esté desactivado, no hay una galería pública.
+Las imágenes web están optimizadas para la navegación y no incluyen metadatos EXIF de ubicación. Los originales completos permanecen en la computadora del propietario.
+
+El sitio y este repositorio son públicos. `robots.txt` y `noindex` solicitan evitar la indexación y no son controles de acceso.
+
+El sitio se publica con GitHub Pages desde la raíz de `main`.
 
 © Rolando Silva Vique. Fotografías personales; derechos reservados.
